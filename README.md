@@ -1,2 +1,2 @@
 # yuwenta
-prompt 
+prompt ('введите число')
