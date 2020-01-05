@@ -1,0 +1,5 @@
+'new str' 
+'add str'
+еще одна строка
+ hello, git!
+ bay bay
