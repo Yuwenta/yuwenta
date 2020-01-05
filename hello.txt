@@ -3,3 +3,4 @@
 еще одна строка
  hello, git!
  bay bay
+ hello, git rebase!
